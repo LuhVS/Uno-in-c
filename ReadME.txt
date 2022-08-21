@@ -1,4 +1,4 @@
-Luan Victor da Silva Rodrigues - Estrutura de Dados
+Luan Victor da Silva Rodrigues - Projeto
 The game was codded by me but the rules are mostly from the game UNO with a crucial change, now it's supposed to be a single-player game.
 
 If you don't know how to play here's a quick guide:
